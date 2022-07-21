@@ -35,3 +35,7 @@ Use Mailtrap https://mailtrap.io/
 
 
 
+## After verification
+
+![1](https://user-images.githubusercontent.com/80118217/180149812-8c041b0a-95b6-4daf-aa57-9abd83e87399.JPG)
+
