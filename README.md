@@ -26,3 +26,12 @@ php artisan serve
 
 ## For testing
 Use Mailtrap https://mailtrap.io/
+
+![5](https://user-images.githubusercontent.com/80118217/180148526-5ab82293-d0bd-4a54-9839-00ac7fb16a52.JPG)
+
+
+
+![3](https://user-images.githubusercontent.com/80118217/180148589-713bc44d-ab2d-4285-8a33-db12e749b327.JPG)
+
+
+
