@@ -22,3 +22,7 @@ npm install && npm run dev
 php artisan migrate
 
 php artisan serve
+
+
+## For testing
+Use Mailtrap https://mailtrap.io/
