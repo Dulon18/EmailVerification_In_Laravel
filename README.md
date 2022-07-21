@@ -9,9 +9,9 @@
 
 ## Email verification Procedure
 
-composer create-project --prefer-dist laravel/laravel blade-example-app
+composer create-project laravel/laravel example-app
 
-cd blade-example-app
+cd example-app
 
 composer require laravel/ui
 
